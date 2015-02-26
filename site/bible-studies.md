@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: map
 title: Bible Studies
 permalink: /bible-studies/
+map: true
 ---
 
 Bible studies run at the following times and locations:
