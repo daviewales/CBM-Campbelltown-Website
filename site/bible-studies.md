@@ -13,6 +13,7 @@ Bible studies run at the following times and locations:
 - Tuesday
     - 10-11
     - 1-2
+    - 2-3
 - Wednesday
     - 12-1
     - 1-2
