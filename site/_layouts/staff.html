@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{% for member in site.data.staff %}
+    <h3>{{ member.name }}</h3>
+
+    {% if member.phone %}
+        <p><strong>Phone: </strong>{{ member.phone }}</p>
+    {% endif %}
+
+    {% if member.email %}
+        <p><strong>Email: </strong>{{ member.email }}</p>
+    {% endif %}
+
+    <br/>
+    <br/>
+{% endfor %}

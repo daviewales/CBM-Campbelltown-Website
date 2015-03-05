@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: staff
 title: Staff
 permalink: /staff/
 ---
 
-### Adam Richards
-**Phone:** 0457 775 538
-
-<br/>
-
-### David Wales
-**Phone:** 0432 651 023
+{% comment %}
+To edit this page, edit the data in _data/staff.yml
+{% endcomment %}
