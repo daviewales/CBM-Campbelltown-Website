@@ -1,7 +1,7 @@
 ---
-layout: staff
-title: Staff
-permalink: /staff/
+layout: people
+title: Leaders
+permalink: /leaders/
 ---
 
 {% comment %}

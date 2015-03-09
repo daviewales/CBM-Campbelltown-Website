@@ -2,9 +2,10 @@
 layout: page
 ---
 
-{% for member in site.data.staff %}
-    <h3>{{ member.name }}</h3>
-
+{% for member in site.data.leaders %}
+<p><span style="font-size:19pt;">{{ member.name }} |</span>
+{% if member.role %} {{ member.role }} {% endif %}
+</p>
     {% if member.phone %}
         <p><strong>Phone: </strong>{{ member.phone }}</p>
     {% endif %}
