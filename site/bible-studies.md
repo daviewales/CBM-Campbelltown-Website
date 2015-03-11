@@ -17,6 +17,7 @@ Bible studies run at the following times and locations:
 - Wednesday
     - 12-1
     - 1-2
+    - 2-3
     - 7-9 @ Res Common Room
 - Thursday
     - 12-1
