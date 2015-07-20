@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBM Campbelltown</title>
+    <description>Uncover the real Jesus by reading the Bible with us!
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jul 2015 23:25:00 +1000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2015 23:25:00 +1000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
