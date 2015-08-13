@@ -22,6 +22,23 @@
 
     <header class="site-header">
 
+
+<script type="text/javascript" src="/scripts/instafeed.min.js"></script>
+<script type="text/javascript">
+    var image_width = 150;
+    var image_count = Math.floor(window.innerWidth / image_width) + 1;
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: 2134239621,
+        accessToken: "2134239621.467ede5.b624c653af1240fab94d4c380e449fa5",
+        limit: image_count,
+    });
+    userFeed.run();
+</script>
+
+<div id="instafeed"></div>
+
+
   <div class="wrapper">
 
     <a class="site-title" href="/">CBM Campbelltown</a>
