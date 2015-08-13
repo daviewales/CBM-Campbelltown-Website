@@ -2,8 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid red;
-    border-bottom: 1px solid $grey-color-light;
+//    border-top: 5px solid red;
+//    border-bottom: 1px solid $grey-color-light;
+    background-color: rgba(255, 0, 0, 0.77);
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -19,7 +20,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: black;
     }
 }
 
@@ -233,4 +234,17 @@
             font-size: 18px;
         }
     }
+}
+
+
+
+/**
+ * Instafeed
+ */
+
+div#instafeed {
+    white-space: nowrap;
+    height: 150px;
+    border-top: 5px red;
+    border-bottom: 5px red;
 }
