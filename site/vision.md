@@ -9,4 +9,4 @@ Jesus in Luke’s gospel makes very clear his purpose was to preach the gospel t
 
 No one person can do this alone. CBM Campbelltown is a group of studying Christians placed at UWS Campbelltown by God who see the campus as a mission field. Understanding the urgency and priority of the mission, students enter in partnership to proclaim salvation through faith in Jesus Christ to UWS Campbelltown.
 
-Our vision is to faithfully proclaim the good news of God’s Kingdom in love to every student at UWS Campbelltown.
+**Our vision is to faithfully proclaim the good news of God’s Kingdom in love to every student at UWS Campbelltown.**
